@@ -1,0 +1,757 @@
+Position,Strategy,HandType,HandCategory,Action,SubStrategy
+Button,Loose,Pair,22,Raise,
+Button,Loose,Suited Connector,23s,Fold,
+Button,Loose,Suited Connector,24s,Fold,
+Button,Loose,Suited Connector,25s,Fold,
+Button,Loose,Suited King,K2s,Fold,
+Button,Loose,Suited Ace,A2s,Raise,
+Button,Loose,Pair,33,Raise,
+Button,Loose,Suited Connector,34s,Fold,
+Button,Loose,Suited Connector,35s,Fold,
+Button,Loose,Suited Connector,36s,Fold,
+Button,Loose,Suited King,K3s,Fold,
+Button,Loose,Suited Ace,A3s,Raise,
+Button,Loose,Pair,44,Raise,
+Button,Loose,Suited Connector,45s,Fold,
+Button,Loose,Suited Connector,46s,Fold,
+Button,Loose,Suited Connector,47s,Fold,
+Button,Loose,Suited King,K4s,Fold,
+Button,Loose,Suited Ace,A4s,Raise,
+Button,Loose,Pair,55,Raise,
+Button,Loose,Suited Connector,56s,Fold,
+Button,Loose,Suited Connector,57s,Fold,
+Button,Loose,Suited Connector,58s,Fold,
+Button,Loose,Suited King,K5s,Fold,
+Button,Loose,Suited Ace,A5s,Raise,
+Button,Loose,Pair,66,Raise,
+Button,Loose,Suited Connector,67s,Fold,
+Button,Loose,Suited Connector,68s,Fold,
+Button,Loose,Suited Connector,69s,Fold,
+Button,Loose,Suited King,K6s,Fold,
+Button,Loose,Suited Ace,A6s,Raise,
+Button,Loose,Pair,77,Raise,
+Button,Loose,Suited Connector,78s,Fold,
+Button,Loose,Suited Connector,79s,Fold,
+Button,Loose,Suited Connector,7Ts,Fold,
+Button,Loose,Suited King,K7s,Fold,
+Button,Loose,Suited Ace,A7s,Raise,
+Button,Loose,Pair,88,Raise,
+Button,Loose,Suited Connector,89s,Fold,
+Button,Loose,Suited Connector,8Ts,Fold,
+Button,Loose,Suited Connector,8Js,Fold,
+Button,Loose,Suited King,K8s,Raise,
+Button,Loose,Suited Ace,A8s,Raise,
+Button,Loose,Pair,99,Raise,
+Button,Loose,Suited Connector,9Ts,Fold,
+Button,Loose,Suited Connector,9Js,Fold,
+Button,Loose,Suited Connector,9Qs,Fold,
+Button,Loose,Suited King,K9s,Raise,
+Button,Loose,Suited Ace,A9s,Raise,
+Button,Loose,Pair,TT,Raise,
+Button,Loose,Broadway,JT,Raise,
+Button,Loose,Broadway,QT,Raise,
+Button,Loose,Broadway,KT,Raise,
+Button,Loose,Broadway,AT,Raise,
+Button,Loose,Pair,JJ,Raise,
+Button,Loose,Broadway,QJ,Raise,
+Button,Loose,Broadway,KJ,Raise,
+Button,Loose,Broadway,AJ,Raise,
+Button,Loose,Pair,QQ,Raise,
+Button,Loose,Broadway,KQ,Raise,
+Button,Loose,Broadway,AQ,Raise,
+Button,Loose,Pair,KK,Raise,
+Button,Loose,Broadway,AK,Raise,
+Button,Loose,Pair,AA,Raise,
+Button,Tight,Pair,22,Fold,
+Button,Tight,Suited Connector,23s,Fold,
+Button,Tight,Suited Connector,24s,Fold,
+Button,Tight,Suited Connector,25s,Fold,
+Button,Tight,Suited King,K2s,Fold,
+Button,Tight,Suited Ace,A2s,Fold,
+Button,Tight,Pair,33,Fold,
+Button,Tight,Suited Connector,34s,Fold,
+Button,Tight,Suited Connector,35s,Fold,
+Button,Tight,Suited Connector,36s,Fold,
+Button,Tight,Suited King,K3s,Fold,
+Button,Tight,Suited Ace,A3s,Fold,
+Button,Tight,Pair,44,Fold,
+Button,Tight,Suited Connector,45s,Fold,
+Button,Tight,Suited Connector,46s,Fold,
+Button,Tight,Suited Connector,47s,Fold,
+Button,Tight,Suited King,K4s,Fold,
+Button,Tight,Suited Ace,A4s,Raise,
+Button,Tight,Pair,55,Raise,
+Button,Tight,Suited Connector,56s,Fold,
+Button,Tight,Suited Connector,57s,Fold,
+Button,Tight,Suited Connector,58s,Fold,
+Button,Tight,Suited King,K5s,Fold,
+Button,Tight,Suited Ace,A5s,Raise,
+Button,Tight,Pair,66,Raise,
+Button,Tight,Suited Connector,67s,Fold,
+Button,Tight,Suited Connector,68s,Fold,
+Button,Tight,Suited Connector,69s,Fold,
+Button,Tight,Suited King,K6s,Fold,
+Button,Tight,Suited Ace,A6s,Raise,
+Button,Tight,Pair,77,Raise,
+Button,Tight,Suited Connector,78s,Fold,
+Button,Tight,Suited Connector,79s,Fold,
+Button,Tight,Suited Connector,7Ts,Fold,
+Button,Tight,Suited King,K7s,Fold,
+Button,Tight,Suited Ace,A7s,Raise,
+Button,Tight,Pair,88,Raise,
+Button,Tight,Suited Connector,89s,Fold,
+Button,Tight,Suited Connector,8Ts,Fold,
+Button,Tight,Suited Connector,8Js,Fold,
+Button,Tight,Suited King,K8s,Fold,
+Button,Tight,Suited Ace,A8s,Raise,
+Button,Tight,Pair,99,Raise,
+Button,Tight,Suited Connector,9Ts,Fold,
+Button,Tight,Suited Connector,9Js,Fold,
+Button,Tight,Suited Connector,9Qs,Fold,
+Button,Tight,Suited King,K9s,Raise,
+Button,Tight,Suited Ace,A9s,Raise,
+Button,Tight,Pair,TT,Raise,
+Button,Tight,Broadway,JT,Fold,
+Button,Tight,Broadway,QT,Fold,
+Button,Tight,Broadway,KT,Fold,
+Button,Tight,Broadway,AT,Fold,
+Button,Tight,Pair,JJ,Raise,
+Button,Tight,Broadway,QJ,Fold,
+Button,Tight,Broadway,KJ,Raise,
+Button,Tight,Broadway,AJ,Raise,
+Button,Tight,Pair,QQ,Raise,
+Button,Tight,Broadway,KQ,Raise,
+Button,Tight,Broadway,AQ,Raise,
+Button,Tight,Pair,KK,Raise,
+Button,Tight,Broadway,AK,Raise,
+Button,Tight,Pair,AA,Raise,
+Cut-Off,Loose,Pair,22,Raise,
+Cut-Off,Loose,Suited Connector,23s,Fold,
+Cut-Off,Loose,Suited Connector,24s,Fold,
+Cut-Off,Loose,Suited Connector,25s,Fold,
+Cut-Off,Loose,Suited King,K2s,Fold,
+Cut-Off,Loose,Suited Ace,A2s,Raise,
+Cut-Off,Loose,Pair,33,Raise,
+Cut-Off,Loose,Suited Connector,34s,Fold,
+Cut-Off,Loose,Suited Connector,35s,Fold,
+Cut-Off,Loose,Suited Connector,36s,Fold,
+Cut-Off,Loose,Suited King,K3s,Fold,
+Cut-Off,Loose,Suited Ace,A3s,Raise,
+Cut-Off,Loose,Pair,44,Raise,
+Cut-Off,Loose,Suited Connector,45s,Fold,
+Cut-Off,Loose,Suited Connector,46s,Fold,
+Cut-Off,Loose,Suited Connector,47s,Fold,
+Cut-Off,Loose,Suited King,K4s,Fold,
+Cut-Off,Loose,Suited Ace,A4s,Raise,
+Cut-Off,Loose,Pair,55,Raise,
+Cut-Off,Loose,Suited Connector,56s,Fold,
+Cut-Off,Loose,Suited Connector,57s,Fold,
+Cut-Off,Loose,Suited Connector,58s,Fold,
+Cut-Off,Loose,Suited King,K5s,Fold,
+Cut-Off,Loose,Suited Ace,A5s,Raise,
+Cut-Off,Loose,Pair,66,Raise,
+Cut-Off,Loose,Suited Connector,67s,Fold,
+Cut-Off,Loose,Suited Connector,68s,Fold,
+Cut-Off,Loose,Suited Connector,69s,Fold,
+Cut-Off,Loose,Suited King,K6s,Fold,
+Cut-Off,Loose,Suited Ace,A6s,Raise,
+Cut-Off,Loose,Pair,77,Raise,
+Cut-Off,Loose,Suited Connector,78s,Fold,
+Cut-Off,Loose,Suited Connector,79s,Fold,
+Cut-Off,Loose,Suited Connector,7Ts,Fold,
+Cut-Off,Loose,Suited King,K7s,Fold,
+Cut-Off,Loose,Suited Ace,A7s,Raise,
+Cut-Off,Loose,Pair,88,Raise,
+Cut-Off,Loose,Suited Connector,89s,Fold,
+Cut-Off,Loose,Suited Connector,8Ts,Fold,
+Cut-Off,Loose,Suited Connector,8Js,Fold,
+Cut-Off,Loose,Suited King,K8s,Fold,
+Cut-Off,Loose,Suited Ace,A8s,Raise,
+Cut-Off,Loose,Pair,99,Raise,
+Cut-Off,Loose,Suited Connector,9Ts,Fold,
+Cut-Off,Loose,Suited Connector,9Js,Fold,
+Cut-Off,Loose,Suited Connector,9Qs,Fold,
+Cut-Off,Loose,Suited King,K9s,Raise,
+Cut-Off,Loose,Suited Ace,A9s,Raise,
+Cut-Off,Loose,Pair,TT,Raise,
+Cut-Off,Loose,Broadway,JT,Fold,
+Cut-Off,Loose,Broadway,QT,Fold,
+Cut-Off,Loose,Broadway,KT,Raise,
+Cut-Off,Loose,Broadway,AT,Fold,
+Cut-Off,Loose,Pair,JJ,Raise,
+Cut-Off,Loose,Broadway,QJ,Fold,
+Cut-Off,Loose,Broadway,KJ,Raise,
+Cut-Off,Loose,Broadway,AJ,Raise,
+Cut-Off,Loose,Pair,QQ,Raise,
+Cut-Off,Loose,Broadway,KQ,Raise,
+Cut-Off,Loose,Broadway,AQ,Raise,
+Cut-Off,Loose,Pair,KK,Raise,
+Cut-Off,Loose,Broadway,AK,Raise,
+Cut-Off,Loose,Pair,AA,Raise,
+Cut-Off,Tight,Pair,22,Fold,
+Cut-Off,Tight,Suited Connector,23s,Fold,
+Cut-Off,Tight,Suited Connector,24s,Fold,
+Cut-Off,Tight,Suited Connector,25s,Fold,
+Cut-Off,Tight,Suited King,K2s,Fold,
+Cut-Off,Tight,Suited Ace,A2s,Fold,
+Cut-Off,Tight,Pair,33,Fold,
+Cut-Off,Tight,Suited Connector,34s,Fold,
+Cut-Off,Tight,Suited Connector,35s,Fold,
+Cut-Off,Tight,Suited Connector,36s,Fold,
+Cut-Off,Tight,Suited King,K3s,Fold,
+Cut-Off,Tight,Suited Ace,A3s,Fold,
+Cut-Off,Tight,Pair,44,Fold,
+Cut-Off,Tight,Suited Connector,45s,Fold,
+Cut-Off,Tight,Suited Connector,46s,Fold,
+Cut-Off,Tight,Suited Connector,47s,Fold,
+Cut-Off,Tight,Suited King,K4s,Fold,
+Cut-Off,Tight,Suited Ace,A4s,Fold,
+Cut-Off,Tight,Pair,55,Fold,
+Cut-Off,Tight,Suited Connector,56s,Fold,
+Cut-Off,Tight,Suited Connector,57s,Fold,
+Cut-Off,Tight,Suited Connector,58s,Fold,
+Cut-Off,Tight,Suited King,K5s,Fold,
+Cut-Off,Tight,Suited Ace,A5s,Raise,
+Cut-Off,Tight,Pair,66,Fold,
+Cut-Off,Tight,Suited Connector,67s,Fold,
+Cut-Off,Tight,Suited Connector,68s,Fold,
+Cut-Off,Tight,Suited Connector,69s,Fold,
+Cut-Off,Tight,Suited King,K6s,Fold,
+Cut-Off,Tight,Suited Ace,A6s,Raise,
+Cut-Off,Tight,Pair,77,Raise,
+Cut-Off,Tight,Suited Connector,78s,Fold,
+Cut-Off,Tight,Suited Connector,79s,Fold,
+Cut-Off,Tight,Suited Connector,7Ts,Fold,
+Cut-Off,Tight,Suited King,K7s,Fold,
+Cut-Off,Tight,Suited Ace,A7s,Raise,
+Cut-Off,Tight,Pair,88,Raise,
+Cut-Off,Tight,Suited Connector,89s,Fold,
+Cut-Off,Tight,Suited Connector,8Ts,Fold,
+Cut-Off,Tight,Suited Connector,8Js,Fold,
+Cut-Off,Tight,Suited King,K8s,Fold,
+Cut-Off,Tight,Suited Ace,A8s,Raise,
+Cut-Off,Tight,Pair,99,Raise,
+Cut-Off,Tight,Suited Connector,9Ts,Fold,
+Cut-Off,Tight,Suited Connector,9Js,Fold,
+Cut-Off,Tight,Suited Connector,9Qs,Fold,
+Cut-Off,Tight,Suited King,K9s,Raise,
+Cut-Off,Tight,Suited Ace,A9s,Raise,
+Cut-Off,Tight,Pair,TT,Raise,
+Cut-Off,Tight,Broadway,JT,Fold,
+Cut-Off,Tight,Broadway,QT,Fold,
+Cut-Off,Tight,Broadway,KT,Fold,
+Cut-Off,Tight,Broadway,AT,Fold,
+Cut-Off,Tight,Pair,JJ,Raise,
+Cut-Off,Tight,Broadway,QJ,Fold,
+Cut-Off,Tight,Broadway,KJ,Fold,
+Cut-Off,Tight,Broadway,AJ,Raise,
+Cut-Off,Tight,Pair,QQ,Raise,
+Cut-Off,Tight,Broadway,KQ,Raise,
+Cut-Off,Tight,Broadway,AQ,Raise,
+Cut-Off,Tight,Pair,KK,Raise,
+Cut-Off,Tight,Broadway,AK,Raise,
+Cut-Off,Tight,Pair,AA,Raise,
+Early,Loose,Pair,22,Fold,
+Early,Loose,Suited Connector,23s,Fold,
+Early,Loose,Suited Connector,24s,Fold,
+Early,Loose,Suited Connector,25s,Fold,
+Early,Loose,Suited King,K2s,Fold,
+Early,Loose,Suited Ace,A2s,Fold,
+Early,Loose,Pair,33,Fold,
+Early,Loose,Suited Connector,34s,Fold,
+Early,Loose,Suited Connector,35s,Fold,
+Early,Loose,Suited Connector,36s,Fold,
+Early,Loose,Suited King,K3s,Fold,
+Early,Loose,Suited Ace,A3s,Raise,
+Early,Loose,Pair,44,Fold,
+Early,Loose,Suited Connector,45s,Fold,
+Early,Loose,Suited Connector,46s,Fold,
+Early,Loose,Suited Connector,47s,Fold,
+Early,Loose,Suited King,K4s,Fold,
+Early,Loose,Suited Ace,A4s,Raise,
+Early,Loose,Pair,55,Fold,
+Early,Loose,Suited Connector,56s,Fold,
+Early,Loose,Suited Connector,57s,Fold,
+Early,Loose,Suited Connector,58s,Fold,
+Early,Loose,Suited King,K5s,Fold,
+Early,Loose,Suited Ace,A5s,Raise,
+Early,Loose,Pair,66,Raise,
+Early,Loose,Suited Connector,67s,Fold,
+Early,Loose,Suited Connector,68s,Fold,
+Early,Loose,Suited Connector,69s,Fold,
+Early,Loose,Suited King,K6s,Fold,
+Early,Loose,Suited Ace,A6s,Raise,
+Early,Loose,Pair,77,Raise,
+Early,Loose,Suited Connector,78s,Fold,
+Early,Loose,Suited Connector,79s,Fold,
+Early,Loose,Suited Connector,7Ts,Fold,
+Early,Loose,Suited King,K7s,Fold,
+Early,Loose,Suited Ace,A7s,Raise,
+Early,Loose,Pair,88,Raise,
+Early,Loose,Suited Connector,89s,Fold,
+Early,Loose,Suited Connector,8Ts,Fold,
+Early,Loose,Suited Connector,8Js,Fold,
+Early,Loose,Suited King,K8s,Fold,
+Early,Loose,Suited Ace,A8s,Raise,
+Early,Loose,Pair,99,Raise,
+Early,Loose,Suited Connector,9Ts,Fold,
+Early,Loose,Suited Connector,9Js,Fold,
+Early,Loose,Suited Connector,9Qs,Fold,
+Early,Loose,Suited King,K9s,Raise,
+Early,Loose,Suited Ace,A9s,Raise,
+Early,Loose,Pair,TT,Raise,
+Early,Loose,Broadway,JT,Fold,
+Early,Loose,Broadway,QT,Fold,
+Early,Loose,Broadway,KT,Fold,
+Early,Loose,Broadway,AT,Fold,
+Early,Loose,Pair,JJ,Raise,
+Early,Loose,Broadway,QJ,Fold,
+Early,Loose,Broadway,KJ,Raise,
+Early,Loose,Broadway,AJ,Raise,
+Early,Loose,Pair,QQ,Raise,
+Early,Loose,Broadway,KQ,Raise,
+Early,Loose,Broadway,AQ,Raise,
+Early,Loose,Pair,KK,Raise,
+Early,Loose,Broadway,AK,Raise,
+Early,Loose,Pair,AA,Raise,
+Early,Tight,Pair,22,Fold,
+Early,Tight,Suited Connector,23s,Fold,
+Early,Tight,Suited Connector,24s,Fold,
+Early,Tight,Suited Connector,25s,Fold,
+Early,Tight,Suited King,K2s,Fold,
+Early,Tight,Suited Ace,A2s,Fold,
+Early,Tight,Pair,33,Fold,
+Early,Tight,Suited Connector,34s,Fold,
+Early,Tight,Suited Connector,35s,Fold,
+Early,Tight,Suited Connector,36s,Fold,
+Early,Tight,Suited King,K3s,Fold,
+Early,Tight,Suited Ace,A3s,Fold,
+Early,Tight,Pair,44,Fold,
+Early,Tight,Suited Connector,45s,Fold,
+Early,Tight,Suited Connector,46s,Fold,
+Early,Tight,Suited Connector,47s,Fold,
+Early,Tight,Suited King,K4s,Fold,
+Early,Tight,Suited Ace,A4s,Fold,
+Early,Tight,Pair,55,Fold,
+Early,Tight,Suited Connector,56s,Fold,
+Early,Tight,Suited Connector,57s,Fold,
+Early,Tight,Suited Connector,58s,Fold,
+Early,Tight,Suited King,K5s,Fold,
+Early,Tight,Suited Ace,A5s,Raise,
+Early,Tight,Pair,66,Fold,
+Early,Tight,Suited Connector,67s,Fold,
+Early,Tight,Suited Connector,68s,Fold,
+Early,Tight,Suited Connector,69s,Fold,
+Early,Tight,Suited King,K6s,Fold,
+Early,Tight,Suited Ace,A6s,Raise,
+Early,Tight,Pair,77,Fold,
+Early,Tight,Suited Connector,78s,Fold,
+Early,Tight,Suited Connector,79s,Fold,
+Early,Tight,Suited Connector,7Ts,Fold,
+Early,Tight,Suited King,K7s,Fold,
+Early,Tight,Suited Ace,A7s,Raise,
+Early,Tight,Pair,88,Raise,
+Early,Tight,Suited Connector,89s,Fold,
+Early,Tight,Suited Connector,8Ts,Fold,
+Early,Tight,Suited Connector,8Js,Fold,
+Early,Tight,Suited King,K8s,Fold,
+Early,Tight,Suited Ace,A8s,Raise,
+Early,Tight,Pair,99,Raise,
+Early,Tight,Suited Connector,9Ts,Fold,
+Early,Tight,Suited Connector,9Js,Fold,
+Early,Tight,Suited Connector,9Qs,Fold,
+Early,Tight,Suited King,K9s,Fold,
+Early,Tight,Suited Ace,A9s,Raise,
+Early,Tight,Pair,TT,Raise,
+Early,Tight,Broadway,JT,Fold,
+Early,Tight,Broadway,QT,Fold,
+Early,Tight,Broadway,KT,Fold,
+Early,Tight,Broadway,AT,Fold,
+Early,Tight,Pair,JJ,Raise,
+Early,Tight,Broadway,QJ,Fold,
+Early,Tight,Broadway,KJ,Fold,
+Early,Tight,Broadway,AJ,Fold,
+Early,Tight,Pair,QQ,Raise,
+Early,Tight,Broadway,KQ,Fold,
+Early,Tight,Broadway,AQ,Raise,
+Early,Tight,Pair,KK,Raise,
+Early,Tight,Broadway,AK,Raise,
+Early,Tight,Pair,AA,Raise,
+Blinds,Loose,Pair,22,Raise,Facing Raises
+Blinds,Loose,Suited Connector,23s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,24s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,25s,Fold,Facing Raises
+Blinds,Loose,Suited King,K2s,Fold,Facing Raises
+Blinds,Loose,Suited Ace,A2s,Raise,Facing Raises
+Blinds,Loose,Pair,33,Raise,Facing Raises
+Blinds,Loose,Suited Connector,34s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,35s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,36s,Fold,Facing Raises
+Blinds,Loose,Suited King,K3s,Fold,Facing Raises
+Blinds,Loose,Suited Ace,A3s,Raise,Facing Raises
+Blinds,Loose,Pair,44,Raise,Facing Raises
+Blinds,Loose,Suited Connector,45s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,46s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,47s,Fold,Facing Raises
+Blinds,Loose,Suited King,K4s,Fold,Facing Raises
+Blinds,Loose,Suited Ace,A4s,Raise,Facing Raises
+Blinds,Loose,Pair,55,Raise,Facing Raises
+Blinds,Loose,Suited Connector,56s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,57s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,58s,Fold,Facing Raises
+Blinds,Loose,Suited King,K5s,Fold,Facing Raises
+Blinds,Loose,Suited Ace,A5s,Raise,Facing Raises
+Blinds,Loose,Pair,66,Raise,Facing Raises
+Blinds,Loose,Suited Connector,67s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,68s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,69s,Fold,Facing Raises
+Blinds,Loose,Suited King,K6s,Fold,Facing Raises
+Blinds,Loose,Suited Ace,A6s,Raise,Facing Raises
+Blinds,Loose,Pair,77,Raise,Facing Raises
+Blinds,Loose,Suited Connector,78s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,79s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,7Ts,Fold,Facing Raises
+Blinds,Loose,Suited King,K7s,Fold,Facing Raises
+Blinds,Loose,Suited Ace,A7s,Raise,Facing Raises
+Blinds,Loose,Pair,88,Raise,Facing Raises
+Blinds,Loose,Suited Connector,89s,Fold,Facing Raises
+Blinds,Loose,Suited Connector,8Ts,Fold,Facing Raises
+Blinds,Loose,Suited Connector,8Js,Fold,Facing Raises
+Blinds,Loose,Suited King,K8s,Raise,Facing Raises
+Blinds,Loose,Suited Ace,A8s,Raise,Facing Raises
+Blinds,Loose,Pair,99,Raise,Facing Raises
+Blinds,Loose,Suited Connector,9Ts,Fold,Facing Raises
+Blinds,Loose,Suited Connector,9Js,Fold,Facing Raises
+Blinds,Loose,Suited Connector,9Qs,Fold,Facing Raises
+Blinds,Loose,Suited King,K9s,Fold,Facing Raises
+Blinds,Loose,Suited Ace,A9s,Raise,Facing Raises
+Blinds,Loose,Pair,TT,Raise,Facing Raises
+Blinds,Loose,Broadway,JT,Fold,Facing Raises
+Blinds,Loose,Broadway,QT,Raise,Facing Raises
+Blinds,Loose,Broadway,KT,Fold,Facing Raises
+Blinds,Loose,Broadway,AT,Raise,Facing Raises
+Blinds,Loose,Pair,JJ,Raise,Facing Raises
+Blinds,Loose,Broadway,QJ,Fold,Facing Raises
+Blinds,Loose,Broadway,KJ,Raise,Facing Raises
+Blinds,Loose,Broadway,AJ,Raise,Facing Raises
+Blinds,Loose,Pair,QQ,Raise,Facing Raises
+Blinds,Loose,Broadway,KQ,Raise,Facing Raises
+Blinds,Loose,Broadway,AQ,Raise,Facing Raises
+Blinds,Loose,Pair,KK,Raise,Facing Raises
+Blinds,Loose,Broadway,AK,Raise,Facing Raises
+Blinds,Loose,Pair,AA,Raise,Facing Raises
+Blinds,Tight,Pair,22,Fold,Facing Raises
+Blinds,Tight,Suited Connector,23s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,24s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,25s,Fold,Facing Raises
+Blinds,Tight,Suited King,K2s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A2s,Fold,Facing Raises
+Blinds,Tight,Pair,33,Fold,Facing Raises
+Blinds,Tight,Suited Connector,34s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,35s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,36s,Fold,Facing Raises
+Blinds,Tight,Suited King,K3s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A3s,Fold,Facing Raises
+Blinds,Tight,Pair,44,Fold,Facing Raises
+Blinds,Tight,Suited Connector,45s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,46s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,47s,Fold,Facing Raises
+Blinds,Tight,Suited King,K4s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A4s,Fold,Facing Raises
+Blinds,Tight,Pair,55,Fold,Facing Raises
+Blinds,Tight,Suited Connector,56s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,57s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,58s,Fold,Facing Raises
+Blinds,Tight,Suited King,K5s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A5s,Raise,Facing Raises
+Blinds,Tight,Pair,66,Fold,Facing Raises
+Blinds,Tight,Suited Connector,67s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,68s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,69s,Fold,Facing Raises
+Blinds,Tight,Suited King,K6s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A6s,Raise,Facing Raises
+Blinds,Tight,Pair,77,Raise,Facing Raises
+Blinds,Tight,Suited Connector,78s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,79s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,7Ts,Fold,Facing Raises
+Blinds,Tight,Suited King,K7s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A7s,Raise,Facing Raises
+Blinds,Tight,Pair,88,Raise,Facing Raises
+Blinds,Tight,Suited Connector,89s,Fold,Facing Raises
+Blinds,Tight,Suited Connector,8Ts,Fold,Facing Raises
+Blinds,Tight,Suited Connector,8Js,Fold,Facing Raises
+Blinds,Tight,Suited King,K8s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A8s,Raise,Facing Raises
+Blinds,Tight,Pair,99,Raise,Facing Raises
+Blinds,Tight,Suited Connector,9Ts,Fold,Facing Raises
+Blinds,Tight,Suited Connector,9Js,Fold,Facing Raises
+Blinds,Tight,Suited Connector,9Qs,Fold,Facing Raises
+Blinds,Tight,Suited King,K9s,Fold,Facing Raises
+Blinds,Tight,Suited Ace,A9s,Raise,Facing Raises
+Blinds,Tight,Pair,TT,Raise,Facing Raises
+Blinds,Tight,Broadway,JT,Fold,Facing Raises
+Blinds,Tight,Broadway,QT,Fold,Facing Raises
+Blinds,Tight,Broadway,KT,Fold,Facing Raises
+Blinds,Tight,Broadway,AT,Fold,Facing Raises
+Blinds,Tight,Pair,JJ,Raise,Facing Raises
+Blinds,Tight,Broadway,QJ,Fold,Facing Raises
+Blinds,Tight,Broadway,KJ,Fold,Facing Raises
+Blinds,Tight,Broadway,AJ,Fold,Facing Raises
+Blinds,Tight,Pair,QQ,Raise,Facing Raises
+Blinds,Tight,Broadway,KQ,Raise,Facing Raises
+Blinds,Tight,Broadway,AQ,Raise,Facing Raises
+Blinds,Tight,Pair,KK,Raise,Facing Raises
+Blinds,Tight,Broadway,AK,Raise,Facing Raises
+Blinds,Tight,Pair,AA,Raise,Facing Raises
+Blinds,Loose,Pair,22,Raise,Limped Pots
+Blinds,Loose,Suited Connector,23s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,24s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,25s,Fold,Limped Pots
+Blinds,Loose,Suited King,K2s,Fold,Limped Pots
+Blinds,Loose,Suited Ace,A2s,Raise,Limped Pots
+Blinds,Loose,Pair,33,Raise,Limped Pots
+Blinds,Loose,Suited Connector,34s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,35s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,36s,Fold,Limped Pots
+Blinds,Loose,Suited King,K3s,Fold,Limped Pots
+Blinds,Loose,Suited Ace,A3s,Raise,Limped Pots
+Blinds,Loose,Pair,44,Raise,Limped Pots
+Blinds,Loose,Suited Connector,45s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,46s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,47s,Fold,Limped Pots
+Blinds,Loose,Suited King,K4s,Fold,Limped Pots
+Blinds,Loose,Suited Ace,A4s,Raise,Limped Pots
+Blinds,Loose,Pair,55,Raise,Limped Pots
+Blinds,Loose,Suited Connector,56s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,57s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,58s,Fold,Limped Pots
+Blinds,Loose,Suited King,K5s,Fold,Limped Pots
+Blinds,Loose,Suited Ace,A5s,Raise,Limped Pots
+Blinds,Loose,Pair,66,Raise,Limped Pots
+Blinds,Loose,Suited Connector,67s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,68s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,69s,Fold,Limped Pots
+Blinds,Loose,Suited King,K6s,Fold,Limped Pots
+Blinds,Loose,Suited Ace,A6s,Raise,Limped Pots
+Blinds,Loose,Pair,77,Raise,Limped Pots
+Blinds,Loose,Suited Connector,78s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,79s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,7Ts,Fold,Limped Pots
+Blinds,Loose,Suited King,K7s,Fold,Limped Pots
+Blinds,Loose,Suited Ace,A7s,Raise,Limped Pots
+Blinds,Loose,Pair,88,Raise,Limped Pots
+Blinds,Loose,Suited Connector,89s,Fold,Limped Pots
+Blinds,Loose,Suited Connector,8Ts,Fold,Limped Pots
+Blinds,Loose,Suited Connector,8Js,Fold,Limped Pots
+Blinds,Loose,Suited King,K8s,Raise,Limped Pots
+Blinds,Loose,Suited Ace,A8s,Raise,Limped Pots
+Blinds,Loose,Pair,99,Raise,Limped Pots
+Blinds,Loose,Suited Connector,9Ts,Fold,Limped Pots
+Blinds,Loose,Suited Connector,9Js,Fold,Limped Pots
+Blinds,Loose,Suited Connector,9Qs,Fold,Limped Pots
+Blinds,Loose,Suited King,K9s,Raise,Limped Pots
+Blinds,Loose,Suited Ace,A9s,Raise,Limped Pots
+Blinds,Loose,Pair,TT,Raise,Limped Pots
+Blinds,Loose,Broadway,JT,Raise,Limped Pots
+Blinds,Loose,Broadway,QT,Raise,Limped Pots
+Blinds,Loose,Broadway,KT,Fold,Limped Pots
+Blinds,Loose,Broadway,AT,Raise,Limped Pots
+Blinds,Loose,Pair,JJ,Raise,Limped Pots
+Blinds,Loose,Broadway,QJ,Fold,Limped Pots
+Blinds,Loose,Broadway,KJ,Raise,Limped Pots
+Blinds,Loose,Broadway,AJ,Raise,Limped Pots
+Blinds,Loose,Pair,QQ,Raise,Limped Pots
+Blinds,Loose,Broadway,KQ,Raise,Limped Pots
+Blinds,Loose,Broadway,AQ,Raise,Limped Pots
+Blinds,Loose,Pair,KK,Raise,Limped Pots
+Blinds,Loose,Broadway,AK,Raise,Limped Pots
+Blinds,Loose,Pair,AA,Raise,Limped Pots
+Blinds,Tight,Pair,22,Fold,Limped Pots
+Blinds,Tight,Suited Connector,23s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,24s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,25s,Fold,Limped Pots
+Blinds,Tight,Suited King,K2s,Fold,Limped Pots
+Blinds,Tight,Suited Ace,A2s,Fold,Limped Pots
+Blinds,Tight,Pair,33,Fold,Limped Pots
+Blinds,Tight,Suited Connector,34s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,35s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,36s,Fold,Limped Pots
+Blinds,Tight,Suited King,K3s,Fold,Limped Pots
+Blinds,Tight,Suited Ace,A3s,Fold,Limped Pots
+Blinds,Tight,Pair,44,Fold,Limped Pots
+Blinds,Tight,Suited Connector,45s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,46s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,47s,Fold,Limped Pots
+Blinds,Tight,Suited King,K4s,Fold,Limped Pots
+Blinds,Tight,Suited Ace,A4s,Fold,Limped Pots
+Blinds,Tight,Pair,55,Fold,Limped Pots
+Blinds,Tight,Suited Connector,56s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,57s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,58s,Fold,Limped Pots
+Blinds,Tight,Suited King,K5s,Fold,Limped Pots
+Blinds,Tight,Suited Ace,A5s,Raise,Limped Pots
+Blinds,Tight,Pair,66,Fold,Limped Pots
+Blinds,Tight,Suited Connector,67s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,68s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,69s,Fold,Limped Pots
+Blinds,Tight,Suited King,K6s,Fold,Limped Pots
+Blinds,Tight,Suited Ace,A6s,Raise,Limped Pots
+Blinds,Tight,Pair,77,Raise,Limped Pots
+Blinds,Tight,Suited Connector,78s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,79s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,7Ts,Fold,Limped Pots
+Blinds,Tight,Suited King,K7s,Fold,Limped Pots
+Blinds,Tight,Suited Ace,A7s,Raise,Limped Pots
+Blinds,Tight,Pair,88,Raise,Limped Pots
+Blinds,Tight,Suited Connector,89s,Fold,Limped Pots
+Blinds,Tight,Suited Connector,8Ts,Fold,Limped Pots
+Blinds,Tight,Suited Connector,8Js,Fold,Limped Pots
+Blinds,Tight,Suited King,K8s,Fold,Limped Pots
+Blinds,Tight,Suited Ace,A8s,Raise,Limped Pots
+Blinds,Tight,Pair,99,Raise,Limped Pots
+Blinds,Tight,Suited Connector,9Ts,Fold,Limped Pots
+Blinds,Tight,Suited Connector,9Js,Fold,Limped Pots
+Blinds,Tight,Suited Connector,9Qs,Fold,Limped Pots
+Blinds,Tight,Suited King,K9s,Raise,Limped Pots
+Blinds,Tight,Suited Ace,A9s,Raise,Limped Pots
+Blinds,Tight,Pair,TT,Raise,Limped Pots
+Blinds,Tight,Broadway,JT,Fold,Limped Pots
+Blinds,Tight,Broadway,QT,Fold,Limped Pots
+Blinds,Tight,Broadway,KT,Fold,Limped Pots
+Blinds,Tight,Broadway,AT,Fold,Limped Pots
+Blinds,Tight,Pair,JJ,Raise,Limped Pots
+Blinds,Tight,Broadway,QJ,Fold,Limped Pots
+Blinds,Tight,Broadway,KJ,Fold,Limped Pots
+Blinds,Tight,Broadway,AJ,Raise,Limped Pots
+Blinds,Tight,Pair,QQ,Raise,Limped Pots
+Blinds,Tight,Broadway,KQ,Raise,Limped Pots
+Blinds,Tight,Broadway,AQ,Raise,Limped Pots
+Blinds,Tight,Pair,KK,Raise,Limped Pots
+Blinds,Tight,Broadway,AK,Raise,Limped Pots
+Blinds,Tight,Pair,AA,Raise,Limped Pots
+Blinds,Loose,Pair,22,Raise,Steal Defense
+Blinds,Loose,Suited Connector,23s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,24s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,25s,Fold,Steal Defense
+Blinds,Loose,Suited King,K2s,Fold,Steal Defense
+Blinds,Loose,Suited Ace,A2s,Raise,Steal Defense
+Blinds,Loose,Pair,33,Raise,Steal Defense
+Blinds,Loose,Suited Connector,34s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,35s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,36s,Fold,Steal Defense
+Blinds,Loose,Suited King,K3s,Fold,Steal Defense
+Blinds,Loose,Suited Ace,A3s,Raise,Steal Defense
+Blinds,Loose,Pair,44,Raise,Steal Defense
+Blinds,Loose,Suited Connector,45s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,46s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,47s,Fold,Steal Defense
+Blinds,Loose,Suited King,K4s,Fold,Steal Defense
+Blinds,Loose,Suited Ace,A4s,Raise,Steal Defense
+Blinds,Loose,Pair,55,Raise,Steal Defense
+Blinds,Loose,Suited Connector,56s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,57s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,58s,Fold,Steal Defense
+Blinds,Loose,Suited King,K5s,Fold,Steal Defense
+Blinds,Loose,Suited Ace,A5s,Raise,Steal Defense
+Blinds,Loose,Pair,66,Raise,Steal Defense
+Blinds,Loose,Suited Connector,67s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,68s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,69s,Fold,Steal Defense
+Blinds,Loose,Suited King,K6s,Fold,Steal Defense
+Blinds,Loose,Suited Ace,A6s,Raise,Steal Defense
+Blinds,Loose,Pair,77,Raise,Steal Defense
+Blinds,Loose,Suited Connector,78s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,79s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,7Ts,Fold,Steal Defense
+Blinds,Loose,Suited King,K7s,Fold,Steal Defense
+Blinds,Loose,Suited Ace,A7s,Raise,Steal Defense
+Blinds,Loose,Pair,88,Raise,Steal Defense
+Blinds,Loose,Suited Connector,89s,Fold,Steal Defense
+Blinds,Loose,Suited Connector,8Ts,Fold,Steal Defense
+Blinds,Loose,Suited Connector,8Js,Fold,Steal Defense
+Blinds,Loose,Suited King,K8s,Raise,Steal Defense
+Blinds,Loose,Suited Ace,A8s,Raise,Steal Defense
+Blinds,Loose,Pair,99,Raise,Steal Defense
+Blinds,Loose,Suited Connector,9Ts,Fold,Steal Defense
+Blinds,Loose,Suited Connector,9Js,Fold,Steal Defense
+Blinds,Loose,Suited Connector,9Qs,Fold,Steal Defense
+Blinds,Loose,Suited King,K9s,Raise,Steal Defense
+Blinds,Loose,Suited Ace,A9s,Raise,Steal Defense
+Blinds,Loose,Pair,TT,Raise,Steal Defense
+Blinds,Loose,Broadway,JT,Fold,Steal Defense
+Blinds,Loose,Broadway,QT,Fold,Steal Defense
+Blinds,Loose,Broadway,KT,Fold,Steal Defense
+Blinds,Loose,Broadway,AT,Raise,Steal Defense
+Blinds,Loose,Pair,JJ,Raise,Steal Defense
+Blinds,Loose,Broadway,QJ,Fold,Steal Defense
+Blinds,Loose,Broadway,KJ,Raise,Steal Defense
+Blinds,Loose,Broadway,AJ,Raise,Steal Defense
+Blinds,Loose,Pair,QQ,Raise,Steal Defense
+Blinds,Loose,Broadway,KQ,Raise,Steal Defense
+Blinds,Loose,Broadway,AQ,Raise,Steal Defense
+Blinds,Loose,Pair,KK,Raise,Steal Defense
+Blinds,Loose,Broadway,AK,Raise,Steal Defense
+Blinds,Loose,Pair,AA,Raise,Steal Defense
+Blinds,Tight,Pair,22,Raise,Steal Defense
+Blinds,Tight,Suited Connector,23s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,24s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,25s,Fold,Steal Defense
+Blinds,Tight,Suited King,K2s,Fold,Steal Defense
+Blinds,Tight,Suited Ace,A2s,Raise,Steal Defense
+Blinds,Tight,Pair,33,Raise,Steal Defense
+Blinds,Tight,Suited Connector,34s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,35s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,36s,Fold,Steal Defense
+Blinds,Tight,Suited King,K3s,Fold,Steal Defense
+Blinds,Tight,Suited Ace,A3s,Raise,Steal Defense
+Blinds,Tight,Pair,44,Raise,Steal Defense
+Blinds,Tight,Suited Connector,45s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,46s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,47s,Fold,Steal Defense
+Blinds,Tight,Suited King,K4s,Fold,Steal Defense
+Blinds,Tight,Suited Ace,A4s,Raise,Steal Defense
+Blinds,Tight,Pair,55,Raise,Steal Defense
+Blinds,Tight,Suited Connector,56s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,57s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,58s,Fold,Steal Defense
+Blinds,Tight,Suited King,K5s,Fold,Steal Defense
+Blinds,Tight,Suited Ace,A5s,Raise,Steal Defense
+Blinds,Tight,Pair,66,Raise,Steal Defense
+Blinds,Tight,Suited Connector,67s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,68s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,69s,Fold,Steal Defense
+Blinds,Tight,Suited King,K6s,Fold,Steal Defense
+Blinds,Tight,Suited Ace,A6s,Raise,Steal Defense
+Blinds,Tight,Pair,77,Raise,Steal Defense
+Blinds,Tight,Suited Connector,78s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,79s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,7Ts,Fold,Steal Defense
+Blinds,Tight,Suited King,K7s,Fold,Steal Defense
+Blinds,Tight,Suited Ace,A7s,Raise,Steal Defense
+Blinds,Tight,Pair,88,Raise,Steal Defense
+Blinds,Tight,Suited Connector,89s,Fold,Steal Defense
+Blinds,Tight,Suited Connector,8Ts,Fold,Steal Defense
+Blinds,Tight,Suited Connector,8Js,Fold,Steal Defense
+Blinds,Tight,Suited King,K8s,Raise,Steal Defense
+Blinds,Tight,Suited Ace,A8s,Raise,Steal Defense
+Blinds,Tight,Pair,99,Raise,Steal Defense
+Blinds,Tight,Suited Connector,9Ts,Fold,Steal Defense
+Blinds,Tight,Suited Connector,9Js,Fold,Steal Defense
+Blinds,Tight,Suited Connector,9Qs,Fold,Steal Defense
+Blinds,Tight,Suited King,K9s,Raise,Steal Defense
+Blinds,Tight,Suited Ace,A9s,Raise,Steal Defense
+Blinds,Tight,Pair,TT,Raise,Steal Defense
+Blinds,Tight,Broadway,JT,Fold,Steal Defense
+Blinds,Tight,Broadway,QT,Fold,Steal Defense
+Blinds,Tight,Broadway,KT,Fold,Steal Defense
+Blinds,Tight,Broadway,AT,Raise,Steal Defense
+Blinds,Tight,Pair,JJ,Raise,Steal Defense
+Blinds,Tight,Broadway,QJ,Fold,Steal Defense
+Blinds,Tight,Broadway,KJ,Raise,Steal Defense
+Blinds,Tight,Broadway,AJ,Raise,Steal Defense
+Blinds,Tight,Pair,QQ,Raise,Steal Defense
+Blinds,Tight,Broadway,KQ,Raise,Steal Defense
+Blinds,Tight,Broadway,AQ,Raise,Steal Defense
+Blinds,Tight,Pair,KK,Raise,Steal Defense
+Blinds,Tight,Broadway,AK,Raise,Steal Defense
+Blinds,Tight,Pair,AA,Raise,Steal Defense
